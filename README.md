@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Gamze </h1>
+<h1>Hi, I'm Gamze </h1>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/gamzekirmit) 
