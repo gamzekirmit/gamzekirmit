@@ -1,12 +1,10 @@
-<h1 align="center">Hi 👋, I'm Gamze Kirmit</h1>
-<h3 align="center">A frontend developer from Turkey</h3>
+<h1 align="center">Hi, I'm Gamze Kirmit</h1>
 
 - 📫 How to reach me **gamze_kirmit@outlook.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/gamzekirmit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gamzekirmit" height="30" width="40" /></a>
-<a href="https://instagram.com/gamzekirmit_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gamzekirmit_" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -14,6 +12,3 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gamzekirmit&show_icons=true&locale=en&layout=compact" alt="gamzekirmit" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gamzekirmit&show_icons=true&locale=en" alt="gamzekirmit" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gamzekirmit&" alt="gamzekirmit" /></p>
